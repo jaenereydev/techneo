@@ -8,7 +8,7 @@ const Logo = () => {
         <BiSolidBusiness className="w-6 h-6 text-white" />
       </div>
       <h1 className="text-white font-bold text-xl hidden sm:block md:text-2xl">
-        Corp box
+        TechNeo LAB
       </h1>
     </div>
   );

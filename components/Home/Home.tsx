@@ -1,8 +1,7 @@
-import React from 'react';
+import React from "react";
 
 const Home = () => {
-  return  <div className="overflor-hidden">Home</div>;
-  
+  return <div></div>;
 };
 
 export default Home;
